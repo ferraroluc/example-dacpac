@@ -1,6 +1,6 @@
 # Example - DACPAC
 
-The goal of this project is to create a proof of concept with DACPAC, exporting the file and applying it to a SQL Server database.
+The goal of this project is to create a proof of concept with DACPAC, exporting the file and applying it to a SQL Server database. This project was started with the option `Database Projecs: New`.
 
 ## Steps
 
